@@ -8,6 +8,8 @@ Welcome to the comprehensive guide on building **AI Trader Elite**, a state-of-t
 
 Youtube Video: https://www.youtube.com/watch?v=SGNU1fyBtG4
 
+If You have not already go Join my Agentic AI Engineer Trade Skool, where I teach people how to build everything they can think of. The Link is in the comment
+
 ## 1. Introduction
 
 ### What is this project?
