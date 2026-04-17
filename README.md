@@ -2,7 +2,11 @@
 
 Welcome to the comprehensive guide on building **AI Trader Elite**, a state-of-the-art trading terminal. This tutorial is designed for complete beginners who want to understand how modern interactive web applications are built from the ground up.
 
+<img width="3042" height="1698" alt="Screenshot 2026-04-17 113728" src="https://github.com/user-attachments/assets/a29592d9-c36f-44be-9e26-888c61403e6c" />
+
 ---
+
+Youtube Video: https://www.youtube.com/watch?v=SGNU1fyBtG4
 
 ## 1. Introduction
 
