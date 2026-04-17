@@ -1,13 +1,13 @@
 # The Architect's Guide: Building a Professional Trading Workstation
 
-Welcome to the comprehensive guide on building **FinAlly Elite**, a state-of-the-art trading terminal. This tutorial is designed for complete beginners who want to understand how modern interactive web applications are built from the ground up.
+Welcome to the comprehensive guide on building **AI Trader Elite**, a state-of-the-art trading terminal. This tutorial is designed for complete beginners who want to understand how modern interactive web applications are built from the ground up.
 
 ---
 
 ## 1. Introduction
 
 ### What is this project?
-FinAlly Elite is a **Real-Time Trading Workstation**. It allows users to watch stock prices move in real-time, get "Intelligence" from an AI assistant, and execute trades in either a **Simulation** mode (play money) or a **Real** mode (actual markets like Polymarket or Alpaca Stocks).
+AI Trader Elite is a **Real-Time Trading Workstation**. It allows users to watch stock prices move in real-time, get "Intelligence" from an AI assistant, and execute trades in either a **Simulation** mode (play money) or a **Real** mode (actual markets like Polymarket or Alpaca Stocks).
 
 ### Why this approach?
 Most trading apps are "static," meaning you have to refresh the page to see new data. We chose a **Real-Time Stream** approach. Using professional technologies like **FastAPI** and **Next.js**, we created a platform that feels alive—prices tick, news flashes, and charts update without you ever clicking a refresh button.
